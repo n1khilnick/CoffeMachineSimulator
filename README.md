@@ -101,6 +101,7 @@ Coffee Sales Analytics:
 espresso: 1 cups
 Total earnings: $4
 
+
 ```
 
 ## Usage
