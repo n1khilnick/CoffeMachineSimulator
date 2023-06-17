@@ -20,6 +20,7 @@ public class Main {
             switch (option) {
                 case 1 -> {
                     System.out.println();
+                    System.out.println("Welcome to the Coffee Machine Simulator!!");
                     System.out.println("Please enter which type of Coffee you want ");
                     System.out.println("Espresso - 4$/cup ");
                     System.out.println("Latte - $7/cup ");
