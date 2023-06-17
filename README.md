@@ -36,7 +36,7 @@ This is a Coffee Machine Simulator implemented in Java, designed to manage a vir
 
 4. **Show Ingredients**: Users can check the current levels of ingredients available in the coffee machine.
 
-5. Exit: The "exit" option stops the simulation and terminates the program.
+5. **Exit:** The "exit" option stops the simulation and terminates the program.
 
 #### Extension
 The simulator includes an additional option called "Analytics" that provides useful information about the coffee machine's operations. The "Analytics" option displays the following:
@@ -59,7 +59,6 @@ Select an options :
 6. Exit. 
 
 2
-
 Enter ingredients
 Water/Milk/Beans
 
